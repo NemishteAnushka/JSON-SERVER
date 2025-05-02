@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "product_id": 101,
+      "name": "Smartphone XYZ",
+      "category": "Mobile",
+      "brand": "TechOne",
+      "price": 24999,
+      "in_stock": true
+    },
+    {
+      "product_id": 102,
+      "name": "Laptop Pro 15",
+      "category": "Laptop",
+      "brand": "CompMate",
+      "price": 59999,
+      "in_stock": false
+    },
+    {
+      "product_id": 103,
+      "name": "Bluetooth Earbuds Z1",
+      "category": "Audio",
+      "brand": "SoundBuzz",
+      "price": 2999,
+      "in_stock": true
+    },
+    {
+      "product_id": 104,
+      "name": "Smartwatch FitMax",
+      "category": "Wearable",
+      "brand": "HealthTech",
+      "price": 4999,
+      "in_stock": true
+    },
+    {
+      "product_id": 105,
+      "name": "LED TV 43\" Ultra HD",
+      "category": "Television",
+      "brand": "ViewMore",
+      "price": 27999,
+      "in_stock": false
+    },
+    {
+      "product_id": 106,
+      "name": "Gaming Console Pro",
+      "category": "Gaming",
+      "brand": "PlayWorld",
+      "price": 39999,
+      "in_stock": true
+    },
+    {
+      "product_id": 107,
+      "name": "Wireless Keyboard & Mouse",
+      "category": "Accessories",
+      "brand": "ClickSmart",
+      "price": 1799,
+      "in_stock": true
+    },
+    {
+      "product_id": 108,
+      "name": "Digital Camera X100",
+      "category": "Camera",
+      "brand": "PhotoPro",
+      "price": 18999,
+      "in_stock": false
+    },
+    {
+      "product_id": 109,
+      "name": "Home Theater System 5.1",
+      "category": "Audio",
+      "brand": "BassKing",
+      "price": 14999,
+      "in_stock": true
+    },
+    {
+      "product_id": 110,
+      "name": "Tablet Mini 8\"",
+      "category": "Tablet",
+      "brand": "TabWare",
+      "price": 8999,
+      "in_stock": true
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": 201,
+      "product_id": 101,
+      "user": "amit_92",
+      "rating": 4.5,
+      "comment": "Great phone for the price. Battery life is excellent.",
+      "date": "2025-04-15"
+    },
+    {
+      "review_id": 202,
+      "product_id": 102,
+      "user": "tech_girl",
+      "rating": 3.8,
+      "comment": "Performance is good but gets a bit hot while gaming.",
+      "date": "2025-03-22"
+    },
+    {
+      "review_id": 203,
+      "product_id": 103,
+      "user": "jayesh_s",
+      "rating": 4.0,
+      "comment": "Comfortable fit and decent sound quality.",
+      "date": "2025-02-10"
+    },
+    {
+      "review_id": 204,
+      "product_id": 104,
+      "user": "fitness_freak",
+      "rating": 4.2,
+      "comment": "Tracks steps and heart rate accurately.",
+      "date": "2025-01-18"
+    },
+    {
+      "review_id": 205,
+      "product_id": 105,
+      "user": "movie_buff89",
+      "rating": 4.7,
+      "comment": "Amazing picture quality and smooth performance.",
+      "date": "2025-04-02"
+    },
+    {
+      "review_id": 206,
+      "product_id": 106,
+      "user": "gamerzone",
+      "rating": 4.9,
+      "comment": "Best console experience! Super smooth and powerful.",
+      "date": "2025-03-10"
+    },
+    {
+      "review_id": 207,
+      "product_id": 107,
+      "user": "rajni_tech",
+      "rating": 3.5,
+      "comment": "Keyboard keys are a bit stiff, but works well overall.",
+      "date": "2025-03-05"
+    },
+    {
+      "review_id": 208,
+      "product_id": 108,
+      "user": "shutterbug",
+      "rating": 4.3,
+      "comment": "Good quality pictures and easy to use.",
+      "date": "2025-02-14"
+    },
+    {
+      "review_id": 209,
+      "product_id": 109,
+      "user": "audiolover",
+      "rating": 4.6,
+      "comment": "Excellent sound with deep bass. Worth the price!",
+      "date": "2025-04-01"
+    },
+    {
+      "review_id": 210,
+      "product_id": 110,
+      "user": "neha_tab",
+      "rating": 4.1,
+      "comment": "Perfect for reading and light browsing.",
+      "date": "2025-01-27"
+    }
+  ]
+}
